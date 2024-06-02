@@ -1,0 +1,21 @@
+Loading python-ml/22-12-21-python3.9
+  Loading requirement: CUDA/11.6.0
+[W 2024-03-07 11:16:49.121 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-03-07 11:16:49.122 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-03-07 11:16:49.122 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2024-03-07 11:16:49.124 LabApp] JupyterLab extension loaded from /dcs/pg23/u1834031/.local/lib/python3.9/site-packages/jupyterlab
+[I 2024-03-07 11:16:49.124 LabApp] JupyterLab application directory is /dcs/pg23/u1834031/.local/share/jupyter/lab
+[I 11:16:49.128 NotebookApp] Serving notebooks from local directory: /dcs/pg23/u1834031/Desktop/2P-PINN-main/PID-GAN-main/PID-GAN/PDEs
+[I 11:16:49.128 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 11:16:49.128 NotebookApp] http://gecko-03:11899/?token=a2ee93cfd65cb78b2f3fa56bd3cd7029679754f86ceb2006
+[I 11:16:49.128 NotebookApp]  or http://127.0.0.1:11899/?token=a2ee93cfd65cb78b2f3fa56bd3cd7029679754f86ceb2006
+[I 11:16:49.128 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:16:49.152 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///dcs/pg23/u1834031/.local/share/jupyter/runtime/nbserver-1667277-open.html
+    Or copy and paste one of these URLs:
+        http://gecko-03:11899/?token=a2ee93cfd65cb78b2f3fa56bd3cd7029679754f86ceb2006
+     or http://127.0.0.1:11899/?token=a2ee93cfd65cb78b2f3fa56bd3cd7029679754f86ceb2006
+Error: no DISPLAY environment variable specified
+slurmstepd: error: *** JOB 806631 ON gecko-03 CANCELLED AT 2024-03-08T11:16:59 DUE TO TIME LIMIT ***
